@@ -1,0 +1,4 @@
+# provide the url and the port where Kafka is running
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
